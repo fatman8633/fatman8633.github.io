@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://fatman8633.github.io/</loc>
+         <lastmod>2022-02-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://fatman8633.github.io/about/</loc>
+         <lastmod>2022-02-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://fatman8633.github.io/bookmarks/optimization-with-multicores-multithreads-from-ibm/</loc>
+         <lastmod>2022-02-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://fatman8633.github.io/tutorials/mkdoc-tutorial/</loc>
+         <lastmod>2022-02-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
